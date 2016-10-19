@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "ED6B4DF84D97927DEEA0A4E65B75AB088D7B2E5D+++731EA05",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "ED6B4DF84D97927DEEA0A4E65B75AB088D7B2E5D+++731EA05" : 0,
+    "ED6B4DF84D97927DEEA0A4E65B75AB088D7B2E5D+++412B67C" : 0,
+    "ED6B4DF84D97927DEEA0A4E65B75AB088D7B2E5D+++F3B255A" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5FE4F502-6D14-4A58-84D0-20813962E6DE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "ED6B4DF84D97927DEEA0A4E65B75AB088D7B2E5D+++731EA05" : "Cooleaf\/",
+    "ED6B4DF84D97927DEEA0A4E65B75AB088D7B2E5D+++412B67C" : "..",
+    "ED6B4DF84D97927DEEA0A4E65B75AB088D7B2E5D+++F3B255A" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Cooleaf",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Cooleaf.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/monterail\/cooleaf-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "ED6B4DF84D97927DEEA0A4E65B75AB088D7B2E5D+++412B67C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/monterail\/cooleaf-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "ED6B4DF84D97927DEEA0A4E65B75AB088D7B2E5D+++731EA05"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/monterail\/cooleaf-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "ED6B4DF84D97927DEEA0A4E65B75AB088D7B2E5D+++F3B255A"
+    }
+  ]
+}
